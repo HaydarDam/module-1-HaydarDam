@@ -1,5 +1,7 @@
 # Indonesian Paradise - Tour & Travel Website
 
+[Banaspati Indonesian Paradise](https://module-1-haydar-1myrf96j7-haydars-projects-d273c07f.vercel.app/)
+
 This website promotes **Banaspati Indonesian Paradise**, a tour and travel agency specializing in Indonesian adventures.
 
 ## Contents
@@ -73,3 +75,5 @@ This website promotes **Banaspati Indonesian Paradise**, a tour and travel agenc
     * Time input (`<input type="time">`) - To choose a preferred travel time.
     * Range input (`<input type="range">`) - For an excitement level (0-10).
 * **Submit button (`<button type="submit">`):**  Triggers the form submission process when clicked.
+
+
